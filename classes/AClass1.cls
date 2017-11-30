@@ -1,8 +1,6 @@
 public class AClass1 {
-    // the 1st commit
-    //   upda    ted
-    // updated once again
-
+    // the 1st commit (removed 2 lines)
+    
     Integer var4 = 111;
     
     // add new line after 2 new empty lines 
